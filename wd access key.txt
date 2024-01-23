@@ -1,0 +1,11 @@
+API key:
+lhhWGaW2wwzWLGPvZ0AU_7wJpLkek2RY2lMbfu6lIY_P
+
+URL
+https://api.us-south.discovery.watson.cloud.ibm.com/instances/a14eac6c-54df-4f77-bc1b-3c0c0137c230
+
+PROJECT_ID - Partner Ecosystem
+ecc9c811-4c83-4d0f-b8bf-efe7dfd6f646
+
+PROJECT_ID - Cloud Pak For Data
+eb6425b4-7445-4e7f-8bb6-28d293c0e869
